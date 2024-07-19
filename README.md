@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-## Project Name:** Password Strength Checker
+## Project Name:Password Strength Checker
 
 ## Objective
 The Password Strength Checker is a Python tool designed to evaluate the strength of user passwords based on several criteria, ensuring they meet security best practices. The goal is to help users create stronger passwords, enhancing their overall cybersecurity posture.

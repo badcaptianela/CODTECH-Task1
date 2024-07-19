@@ -5,6 +5,9 @@
 **Duration:** JUNE 25th, 2024 to JULY 25th, 2024
 **Mentor:**
 
+
+
+
 ## Overview of the Project
 
 ## Project Name:Password Strength Checker

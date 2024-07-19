@@ -16,7 +16,7 @@
 
 # Overview of the Project
 
-## Project Name: Password Strength Checker
+## Project Name: PASSWORD STRENGTH CHECKER
 ![image](https://github.com/user-attachments/assets/59a57bc5-8c3a-4863-b890-17704211da28)
 
 

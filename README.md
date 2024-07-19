@@ -8,6 +8,12 @@
 
 
 
+
+
+
+
+
+
 ## Overview of the Project
 
 ## Project Name:Password Strength Checker
